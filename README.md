@@ -1,4 +1,4 @@
-# NYC_Taxi_Demand_Prediction
+# NYC Taxi Demand Prediction
 Business Problem
 
 For a given location in New York City, the goal is to predict  number of pickups  around that location. Some locations require more number of taxis at peak hours considering a number of factors in that location. By viewing the prediction, the taxi drivers can move to that particular location for increased number of pickups.
@@ -21,7 +21,7 @@ Latency: There is a medium latency requirement ranging from few seconds to minut
 
 Interpretability: There is a no interpretability required.A taxi driver is only concerned with the accurate prediction results.
 
-Relative Errors: Mean Absolute Percentage Error will be the relative error we will consider. Our goal is to reduce the percentage error is low as possible.
+Relative Errors: Mean Absolute Percentage Error will be the relative error we will consider. Our goal is to reduce the percentage error to as low as possible.
 
 Acknowledgments
 • Applied AI Course
